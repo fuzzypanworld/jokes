@@ -20,7 +20,7 @@ export default function JokesRoute() {
             >
               <span className="logo">🤪</span>
               <span className="logo-medium">J🤪KES</span>
-            </Link>
+           </Link>                 
           </h1>
         </div>
       </header>
